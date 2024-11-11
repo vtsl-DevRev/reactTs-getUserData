@@ -1,0 +1,10 @@
+#titleComponent {
+    font-size: 2em;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+}
